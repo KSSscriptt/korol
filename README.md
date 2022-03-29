@@ -4,4 +4,4 @@
 # pkg install python
 # git clone https://github.com/KSSscriptt/korol
 # cd korol
-# python3 install.py
+# python3 bomber.py
