@@ -4,4 +4,4 @@
 # pkg install python
 # git clone https://github.com/KSSscriptt/korol
 # cd korol
-# sh install.py
+# python3 install.py
